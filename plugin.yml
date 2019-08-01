@@ -1,0 +1,7 @@
+name: AutoTreePlanter
+version: 1.0.0
+api: [3.0.0]
+author: Thunder33345
+description: "Automatically plants dropped saplings!"
+website: ""
+main: Thunder33345\TreePlanter\Planter
